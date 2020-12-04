@@ -1,0 +1,19 @@
+command for initializing git in your current working directory
+>git init
+
+command for listing all untracked files
+>git status
+
+command for adding untracked files to staging area
+>git add -A#FOR ADDING ALL UNTRACKED FILES
+>git add file name#FOR ADDING A SPECIFIC FILE
+
+command for adding untracked files to local repository
+>git commit -m"message"
+
+command for adding tracked files to remote repository
+>git push name master
+
+command for adding remote repository
+>git remote add name repository path
+

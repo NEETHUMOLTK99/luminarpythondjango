@@ -1,0 +1,6 @@
+#list   define?  duplicate allowed? insertion order preserved? is it possible to update
+#list   []         yes                   yes                      yes
+#tuple  ()         yes                   yes                       no
+#set    {}          no                    no                       yes
+#dictionary   {}         key not          yes                       yes
+                     value allowed
